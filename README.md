@@ -8,6 +8,11 @@ WindDesk helps a GB utility's day-ahead trading desk answer three questions befo
 
 **Live app:** https://kwcstf.vercel.app · **API docs:** https://kwcstf.vercel.app/docs
 
+**Videos:**
+
+- [Part 1 – Client Pilot Presentation: WindDesk Portal and Analysis](https://youtu.be/f_cNFZJQdeY)
+- [Part 2 – Tech Lead Review and Knowledge Transfer: WindDesk Architecture, Design, Analysis and Codebase](https://youtu.be/2pq833DHyRk)
+
 ---
 
 ## What the January 2026 data says
