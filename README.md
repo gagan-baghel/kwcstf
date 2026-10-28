@@ -6,6 +6,8 @@ WindDesk helps a GB utility's day-ahead trading desk answer three questions befo
 2. **How far can I trust it?** It measures the forecast's error over the whole month, sets a shortfall buffer from that error, and checks how much a simple calibration would have helped.
 3. **So how much should I buy beyond wind?** Every decision day gets a **buy plan**: the wind to plan on at the desk's risk level, and how much more than the raw forecast suggests must therefore be bought, split into forecast-bias correction and safety margin. The Buy planner page sets that risk level from what being short and being long cost, using the newsvendor rule from the wind-trading literature, and backtests January in £.
 
+**Live app:** https://kwcstf.vercel.app · **API docs:** https://kwcstf.vercel.app/docs
+
 ---
 
 ## What the January 2026 data says
